@@ -6,3 +6,5 @@ Calculates the height that my pot needs to be filled to for a given volume of wa
 
 TODO: Account for rounded edges at bottom of pot
 
+# ABV calculator 
+Calculates ABV from FG and OG
