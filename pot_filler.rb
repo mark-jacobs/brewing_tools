@@ -1,7 +1,7 @@
 # Brewpot calculator, works out water depth to fill pot to
 RADIUS = 17.15
-volume = ARGV[0].to_f
-
+puts "enter volume required:"
+volume = gets.chomp.to_f
 # calculate height required
 # height = volume/(PI * radius**2)
 puts "For #{volume} litres"
